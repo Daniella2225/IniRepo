@@ -1,5 +1,5 @@
 # Working with git and Python
-print("Deuxième changement")
-print("Troisième changement")
-print("Quatrième changement")
-print("Cinquième changement")
+print("Second change")
+print("Third change")
+print("Fourth change")
+print("Fifth change")
